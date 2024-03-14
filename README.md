@@ -7,7 +7,7 @@ talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quot
 <hr>
 
 ### Social Media🌐
-
+<br>
 <p align="left">
   <a href="https://instagram.com/dev-marsu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/dev-marsu" height="30" width="40"/></a>
   <a href="https://linkedin.com/in/kevynmarsu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/kevynmars" height="30" width="40"/></a>
