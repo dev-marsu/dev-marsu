@@ -17,10 +17,10 @@ talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quot
 ### Stats📊
 <br>
 <a href="https://github.com/dev-marsu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-marsu&show_icons=true&theme=omni" />
+    <img height="180em" width="80em" src="https://github-readme-stats.vercel.app/api?username=dev-marsu&show_icons=true&theme=omni" />
 </a>
 
 <a href="https://github.com/dev-marsu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marsu&layout=compact&theme=omni" />
+    <img height="180em" width="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marsu&layout=compact&theme=omni" />
 </a>
 <hr>
