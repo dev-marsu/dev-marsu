@@ -6,6 +6,7 @@ One of my passions is learning new languages, and I try to learn at least the ba
 talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quote>
 <br>
 <br>
+
 ### Social Media🌐
 
 <p align="left">
