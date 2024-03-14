@@ -6,6 +6,7 @@ One of my passions is learning new languages, and I try to learn at least the ba
 talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quote>
 <br>
 <br>
+<hr>
 
 ### Social Media🌐
 
@@ -15,8 +16,8 @@ talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quot
 </p>
 <hr>
 
-### Stats 
-<hr>
+### Stats📊
+
 <a href="https://github.com/dev-marsu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-marsu&show_icons=true&theme=omni" />
 </a>
