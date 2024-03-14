@@ -10,8 +10,8 @@ talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quot
 ### Social Media🌐
 
 <p align="left">
-  <a href="https://instagram.com/dev-marsu" target="blank"><i class="fab fa-instagram"></a>
-  <a href="https://linkedin.com/in/kevynmarsu" target="blank"><i class="fab fa-instagram"></a>
+  <a href="https://instagram.com/dev-marsu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/dev-marsu" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/kevynmarsu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/kevynmars" height="30" width="40"/></a>
 </p>
 
 ### Stats 
@@ -22,5 +22,3 @@ talk to me about AI, Strategy Games and astronomy for a long time hahaha. </quot
 <a href="https://github.com/dev-marsu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marsu&layout=compact&theme=omni" />
 </a>
-
-<script src="https://kit.fontawesome.com/1441b6cec8.js" crossorigin="anonymous"></script>
